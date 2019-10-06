@@ -1,3 +1,3 @@
 # Moved to GitLab
 
-https://gitlab.com/zombiebot/edot
+https://gitlab.com/rautars/edot
